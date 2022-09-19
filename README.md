@@ -1,2 +1,2 @@
-# restaurant
+# jsPiano
 practice
